@@ -1,0 +1,11 @@
+.UserUpdate{
+    margin: 10px;
+    display: flex;
+}
+.imageElem{
+    width: 200px;
+    border: 1px solid;
+}
+.imageElem img{
+    width: 200px;
+}

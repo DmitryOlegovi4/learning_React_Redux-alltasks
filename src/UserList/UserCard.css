@@ -1,0 +1,15 @@
+*{margin: 0;
+padding: 0;}
+.UserCard{
+    margin: 10px;
+    background-color: black;
+    width: 200px;
+    padding: 10px 0;
+}
+.UserCard *{
+    padding: 0 10px;
+    color: white;
+}
+.UserCard img{
+    width: 128px;
+}
